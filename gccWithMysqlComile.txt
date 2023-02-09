@@ -1,0 +1,1 @@
+gcc example.c -o example -I/usr/include/mysql -L/usr/lib/mysql -lmysqlclient

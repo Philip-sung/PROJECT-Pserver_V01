@@ -1,0 +1,13 @@
+sudo mysql -u root -p
+password : 1111
+
+SHOW DATABASES;
+USE wiki;
+SHOW tables;
+then check username and password.
+
+
+to start webserver :
+node App.js
+ip of this computer(2022.02.09) : 
+192.168.219.107:3000
